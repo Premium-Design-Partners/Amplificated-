@@ -22,7 +22,9 @@ async function main() {
   app.useGlobalPipes(
     new ValidationPipe({
       transform: true,
+      amplication-build-clj2qdcjc04iqhy01hirwya7h
       forbidUnknownValues: false,
+
     })
   );
 
