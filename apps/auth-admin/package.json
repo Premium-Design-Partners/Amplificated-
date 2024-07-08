@@ -1,5 +1,5 @@
 {
-  "name": "@pdp-gpt/admin",
+  "name": "@auth/admin",
   "private": true,
   "dependencies": {
     "@apollo/client": "3.6.9",
@@ -7,8 +7,6 @@
     "graphql": "15.6.1",
     "lodash": "4.17.21",
     "pluralize": "8.0.0",
-    amplication-build-clj2qdcjc04iqhy01hirwya7h
-    "ra-data-graphql-amplication": "0.0.13",
     "ra-data-graphql-amplication": "0.0.14",
     "react": "16.14.0",
     "react-admin": "3.19.11",
